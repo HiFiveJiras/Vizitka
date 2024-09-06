@@ -1,5 +1,11 @@
-# vizitka-2023
+# Repozitář Vizitka
 
-Šablona projektu pro cvičení práce s Gitem.
+První repozitář v GitHubu.
 
-Postupujte podle zadání [cvičení Vizitka](https://kodim.cz/kurzy/daweb/zaklady-gitu/uvod-do-gitu/cviceni-vizitka).
+výsledkem je {Web} (https://hifivejiras.github.io/Vizitka/)
+
+## výsledek 
+
+!{Web}(Pt.jpg)
+
+
